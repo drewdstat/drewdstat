@@ -11,7 +11,7 @@ I'm an environmental epidemiologist at the Seattle Children's Research Institute
 
 ### Research Interests
  - Omics prediction of chronic disease: Using omics data to predict chronic disease patterns to discover shared mechanisms
- - Multi-outcome health profiles: Using phenotypes of disease outcome co-occurrence to indentify risks and mechanisms shared between seemingly unrelated diseases
+ - Multi-outcome health profiles: Using phenotypes of disease outcome co-occurrence to indentify risks and mechanisms shared between seemingly unrelated diseases ([Residual K-means paper](https://www.sciencedirect.com/science/article/pii/S0160412024000722))
  - Mixture exposures: Advancing mixture exposure modelling to understand the combined health impact of common environmental factors ([Weighted Quantile Sum regression with Permutation Test (WQSPT) methods paper](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP10570))
  - Environmental Epidemiology: exploring associations between chemical and other stressor exposures and later life chronic disease:
    - [Prenatal phthalate plasticizers and child behavioral disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9291724/)
