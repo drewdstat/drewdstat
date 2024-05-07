@@ -1,6 +1,6 @@
 ### Drew Day, PhD 📊
 
-I'm an environmental epidemiologist at the Seattle Children's Research Institute, and I both develop and apply statistical methods to investigate the early life determinants of childhood chronic disease.
+I'm an environmental epidemiologist and data scientist at the Seattle Children's Research Institute, and I both develop and apply statistical methods to investigate the early life determinants of childhood chronic disease.
 
 ### Methods Development/Teaching
  - R package [wqspt](https://cran.r-project.org/web/packages/wqspt/index.html): Using a novel permutation test method to improve the statistical properties of the weighted quantile sum regression, which determines the additive combined association of multiple exposures with a single outcome.
