@@ -6,6 +6,7 @@ I'm an environmental epidemiologist and data scientist at the Seattle Children's
  - R package [wqspt](https://cran.r-project.org/web/packages/wqspt/index.html): Using a novel permutation test method to improve the statistical properties of the weighted quantile sum regression, which determines the additive combined association of multiple exposures with a single outcome.
  - R package [ResidualKMeans](https://www.github.com/drewdstat/ResidualKMeans): Method for unsupervised clustering of mixed type continuous and categorical data while controlling for structure induced by a grouping variable such as cohort in a multi-cohort study.
  - R package [impgrplasso](https://www.github.com/drewdstat/impgrplasso): Combining methods involving a group LASSO penalty for multiply imputed data into one function to perform LASSO regression on data with missingness.
+ - R package [DrewDayRFunctions](https://www.github.com/drewdstat/DrewDayRFunctions): Functions with relevance for epidemiologic analyses including functions to performing many regressions and visualizing regression results.
  - R teaching [Introduction to R](https://htmlpreview.github.io/?https://github.com/drewdstat/TeachingR/blob/main/vignettes/IntrotoR.html): Document to teach a student just starting with R to go from zero to developing useful functions and loops.
  - R helper functions [Miscellaneous](https://github.com/drewdstat/Miscellaneous): Functions for rapidly performing many regressions and returning useful results summaries as well as plotting continuous interactions.
 
