@@ -8,7 +8,6 @@ I'm an epidemiologist and statistician formerly working in chemical safety and c
  - R package [impgrplasso](https://www.github.com/drewdstat/impgrplasso): Combining methods involving a group LASSO penalty for multiply imputed data into one function to perform LASSO regression on data with missingness.
  - R package [DrewDayRFunctions](https://www.github.com/drewdstat/DrewDayRFunctions): Functions with relevance for epidemiologic analyses including functions to performing many regressions, nonlinear mediation, nonlinear regressions, and exploratory data analysis.
  - R teaching [Introduction to R](https://htmlpreview.github.io/?https://github.com/drewdstat/TeachingR/blob/main/vignettes/IntrotoR.html): Document to teach a student just starting with R to go from zero to developing useful functions and loops.
- - R helper functions [Miscellaneous](https://github.com/drewdstat/Miscellaneous): Functions for rapidly performing many regressions and returning useful results summaries as well as plotting continuous interactions.
 
 ### Research Interests
  - Omics prediction of chronic disease: Using omics data to predict chronic disease patterns to discover shared mechanisms ([Placental gene transcription and child cognitive and behavioral outcomes (abstract)](https://ehp.niehs.nih.gov/doi/abs/10.1289/isee.2020.virtual.P-0298))
